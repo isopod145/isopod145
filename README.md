@@ -1,5 +1,3 @@
-wsg
-<!---
-isopod145/isopod145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programmer with 2 years of experience. Experienced in Lua and Luau, specifically with the Roblox engine. Currently also learning how to use TypeScript to expand my abilities.
+
+Also very interested in Isopods.
